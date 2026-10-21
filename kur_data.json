@@ -3,7 +3,7 @@
   "last_updated": "2027",
   "disclaimer_text": "Aplikasi ini merupakan sarana simulasi finansial dan panduan edukasi independen. Aplikasi ini TIDAK berafiliasi resmi dengan instansi pemerintah, Kementerian Koordinator Bidang Perekonomian, maupun bank penyalur program KUR (seperti BRI, Bank Mandiri, BNI, BSI, dan bank daerah). Seluruh perhitungan simulasi angsuran merupakan estimasi matematis menggunakan acuan suku bunga KUR efektif tahun berjalan.",
   "ad_config": {
-    "ads_enabled": true,
+    "ads_enabled": false,
     "banner_enabled": true,
     "interstitial_enabled": true,
     "native_enabled": true,
