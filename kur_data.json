@@ -1,6 +1,6 @@
 {
   "app_version": "1.0.0",
-  "last_updated": "2026",
+  "last_updated": "2027",
   "disclaimer_text": "Aplikasi ini merupakan sarana simulasi finansial dan panduan edukasi independen. Aplikasi ini TIDAK berafiliasi resmi dengan instansi pemerintah, Kementerian Koordinator Bidang Perekonomian, maupun bank penyalur program KUR (seperti BRI, Bank Mandiri, BNI, BSI, dan bank daerah). Seluruh perhitungan simulasi angsuran merupakan estimasi matematis menggunakan acuan suku bunga KUR efektif tahun berjalan.",
   "ad_config": {
     "ads_enabled": true,
@@ -18,15 +18,15 @@
   "guides": [
     {
       "id": "1",
-      "title": "Syarat Lengkap Pengajuan KUR 2026: Dokumen & Kriteria Debitur",
+      "title": "Syarat Lengkap Pengajuan KUR 2027: Dokumen & Kriteria Debitur",
       "category": "Persyaratan",
       "reading_time": "4 min baca",
       "summary": "Panduan komprehensif berkas administrasi KTP, KK, NIB/SKU, dan kriteria debitur yang wajib dipenuhi oleh pelaku usaha mikro.",
-      "content": "Kredit Usaha Rakyat (KUR) 2026 dirancang sebagai pembiayaan bersubsidi bagi pelaku UMKM produktif yang belum memiliki agunan cukup (unbankable tapi feasible).\n\n### 1. Dokumen Pokok Administrasi\n* **Kartu Tanda Penduduk (KTP):** e-KTP pemohon dan pasangan (jika telah menikah) yang valid dan aktif di Disdukcapil.\n* **Kartu Keluarga (KK):** Salinan terbaru yang memuat NIK seluruh anggota keluarga.\n* **Surat Nikah / Akta Cerai:** Bukti status perkawinan resmi untuk verifikasi hak tanggung jawab finansial.\n* **Nomor Induk Berusaha (NIB) atau Surat Keterangan Usaha (SKU):** Diterbitkan dari portal OSS (oss.go.id) atau kelurahan/desa setempat dengan masa berlaku aktif minimal usaha 6 bulan.\n* **NPWP Aktif:** Wajib disertakan untuk pengajuan pinjaman dengan plafon di atas Rp 50.000.000.\n\n### 2. Kriteria Utama Usaha & Debitur\n* Memiliki usaha produktif yang telah berjalan aktif dan konsisten minimal 6 bulan berturut-turut.\n* Tidak sedang menikmati fasilitas kredit modal kerja atau investasi produktif dari perbankan lain (kecuali kredit konsumtif seperti KPR, KKB, atau Paylater/Kartu Kredit dengan riwayat lancar).\n* Berusia minimal 21 tahun atau sudah berstatus menikah."
+      "content": "Kredit Usaha Rakyat (KUR) 2027 dirancang sebagai pembiayaan bersubsidi bagi pelaku UMKM produktif yang belum memiliki agunan cukup (unbankable tapi feasible).\n\n### 1. Dokumen Pokok Administrasi\n* **Kartu Tanda Penduduk (KTP):** e-KTP pemohon dan pasangan (jika telah menikah) yang valid dan aktif di Disdukcapil.\n* **Kartu Keluarga (KK):** Salinan terbaru yang memuat NIK seluruh anggota keluarga.\n* **Surat Nikah / Akta Cerai:** Bukti status perkawinan resmi untuk verifikasi hak tanggung jawab finansial.\n* **Nomor Induk Berusaha (NIB) atau Surat Keterangan Usaha (SKU):** Diterbitkan dari portal OSS (oss.go.id) atau kelurahan/desa setempat dengan masa berlaku aktif minimal usaha 6 bulan.\n* **NPWP Aktif:** Wajib disertakan untuk pengajuan pinjaman dengan plafon di atas Rp 50.000.000.\n\n### 2. Kriteria Utama Usaha & Debitur\n* Memiliki usaha produktif yang telah berjalan aktif dan konsisten minimal 6 bulan berturut-turut.\n* Tidak sedang menikmati fasilitas kredit modal kerja atau investasi produktif dari perbankan lain (kecuali kredit konsumtif seperti KPR, KKB, atau Paylater/Kartu Kredit dengan riwayat lancar).\n* Berusia minimal 21 tahun atau sudah berstatus menikah."
     },
     {
       "id": "2",
-      "title": "Perbedaan KUR Super Mikro, Mikro, dan Kecil 2026",
+      "title": "Perbedaan KUR Super Mikro, Mikro, dan Kecil 2027",
       "category": "Skema Pinjaman",
       "reading_time": "5 min baca",
       "summary": "Pahami tingkatan plafon, suku bunga berjenjang (3% hingga 9%), dan persyaratan agunan tambahan pada masing-masing kategori.",
